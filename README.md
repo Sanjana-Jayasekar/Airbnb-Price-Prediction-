@@ -9,8 +9,8 @@ The purpose of this project is to predict the prices of various accommodations l
 * Inferential Statistics
 
 ### Technologies
-* R 
-* Excel
+* Python 
+* Power BI
 
 ## Project Description
 The project involved developing regression models like KNeighbors Regressor, Linear Regression, Polynomial Regression along with boosting algorithms like Ada Boosting,
