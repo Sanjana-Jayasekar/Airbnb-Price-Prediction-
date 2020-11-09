@@ -8,7 +8,7 @@ The purpose of this project is to predict the prices of various accommodations l
 * Data Visualization
 * Inferential Statistics
 
-### Technologies
+### Tech Stack
 * Python 
 * Power BI
 
